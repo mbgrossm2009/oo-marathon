@@ -1,0 +1,3 @@
+class ZooAtCapacity < Exception
+
+end
