@@ -36,7 +36,6 @@ end
 
     def visit
       results = ""
-
       @employees.each do |employee|
         results << employee.greet + "\n"
       end
